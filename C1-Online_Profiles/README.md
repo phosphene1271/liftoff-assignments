@@ -13,6 +13,6 @@ For this assignment you will need to upload your resume and provide links to you
 [Matthew McClelland](https://www.linkedin.com/in/matthew-mcclelland/)
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
+[Resume](https://github.com/phosphene1271/liftoff-assignments/blob/master/P3-Project_Planning/images/LC%20Resume%20-%20Matt%20McClelland.pdf)
 
 > *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository, talk with your mentor about an alternate way to submit this assignment.
