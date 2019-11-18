@@ -13,5 +13,5 @@ For this assignment you will need to upload your resume and provide links to you
 [Matthew McClelland](https://www.linkedin.com/in/matthew-mcclelland/)
 
 ### Resume
-[Resume](https://github.com/phosphene1271/liftoff-assignments/blob/master/P3-Project_Planning/images/LC%20Resume%20-%20Matt%20McClelland.pdf)
+[Resume](https://github.com/phosphene1271/liftoff-assignments/blob/master/P3-Project_Planning/images/Resume%20-%20Matt%20McClelland.pdf)
 
